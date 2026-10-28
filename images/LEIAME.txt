@@ -1,0 +1,1 @@
+As fotos desta pasta já são usadas pelo álbum. Para adicionar outras, inclua o nome do arquivo na lista PHOTOS em script.js.
